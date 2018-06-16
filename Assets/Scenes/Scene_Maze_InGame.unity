@@ -430,3 +430,15 @@ MonoBehaviour:
   m_MaximumVert: 45
   m_MinimumVert: -45
   m_RotationX: 0
+--- !u!114 &2036115975
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 2036115973}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e39f4e130c550b419d1e5625634df5b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mSpeed: 15
